@@ -39,6 +39,7 @@ def main(src, size, backup):
     ######## START DATA COMPRESSION TASK
     # RECURSIVELY SCAN THROUGH THE DIRECTORY AND CALCULATE THE
     # SIZE, NUMBER OF FILES, AND DIRECTORY IN EACH
+    dataProcess.dProc_standardizeDirNames(DATA_COMPRESS_STRUCT)
     dataProcess.dProc_directoryFilesAndSize(DATA_COMPRESS_STRUCT)
     dataProcess.dProc_directoryFilesAndSizeConsolidate(DATA_COMPRESS_STRUCT)
     

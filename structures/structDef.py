@@ -14,11 +14,8 @@ class structDef_dataCompressInit:
         self.fileSplitChunckSizeMB = configType["FILE_SPLIT_CHUNCK_SIZE_MB"]
         self.maxSameFileTypeInDir  = configType["MAX_SAME_FILETYPE_IN_DIR"]
         self.windows_7zip          = configType["7ZIP_LOCATION_WINDOWS"]
-        self.linux_7zip            = configType["7ZIP_LOCATION_LINUX"]
-        
-        data = {"inputDir": [src]}
-        self.df = pandas.DataFrame(data)
-        
+        self.linux_7zip            = configType["7ZIP_LOCATION_LINUX"] 
+        self.inputDir = src
         self.fileSizeLimitGB = size
 ###############################################################################
 

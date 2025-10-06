@@ -224,31 +224,25 @@ def dProc_deleteCompressedDirectory(DATA_COMPRESS_STRUCT):
 def dProc_standardizeDirNames(DATA_COMPRESS_STRUCT):
     try: 
         fileIO.fileIO_writeToLog(appConfig.logFile, message = r"SCAN THROUGH THE DIRECTORY STRUCTURE AND RENAME FOLDERS WITH \n IN THEIR NAME!")    
-        [row, col] = DATA_COMPRESS_STRUCT.df.shape
-        for i in range(row):
-            try:
-                scanDir = DATA_COMPRESS_STRUCT.df["inputDir"][i]
-            except:
-                scanDir = DATA_COMPRESS_STRUCT.df["inputDir"]
-                
-            fileIO.fileIO_dirExists(scanDir)
-            
-            for root, dirs, files in os.walk(scanDir):
-                print ("Checking %s" %(root))
-                for f in files:
-                    if ('\n' in f) or ('\t' in f):
-                        new_fname = f.replace('\n', '-n').replace('\t', '-t')
-                        os.rename(os.path.join(root, f), os.path.join(root, new_fname))
-                        log_message = f'renamed {f} to {new_fname} inside {root}'
-                        fileIO.fileIO_writeToLog(appConfig.logFile, message = log_message)
-                for d in dirs:
-                    if ('\n' in d) or ('\t' in d):
-                        new_dirname = d.replace('\n', '-n').replace('\t', '-t')
-                        os.rename(os.path.join(root, d), os.path.join(root, new_dirname))
-                        log_message = f'renamed {d} to {new_dirname} inside {root}'
-                        fileIO.fileIO_writeToLog(appConfig.logFile, message = log_message)
+        scanDir = DATA_COMPRESS_STRUCT.inputDir    
+        fileIO.fileIO_dirExists(scanDir)
+        
+        for root, dirs, files in os.walk(scanDir):
+            print ("Checking %s" %(root))
+            for f in files:
+                if ('\n' in f) or ('\t' in f):
+                    new_fname = f.replace('\n', '-n').replace('\t', '-t')
+                    os.rename(os.path.join(root, f), os.path.join(root, new_fname))
+                    log_message = f'renamed {f} to {new_fname} inside {root}'
+                    fileIO.fileIO_writeToLog(appConfig.logFile, message = log_message)
+            for d in dirs:
+                if ('\n' in d) or ('\t' in d):
+                    new_dirname = d.replace('\n', '-n').replace('\t', '-t')
+                    os.rename(os.path.join(root, d), os.path.join(root, new_dirname))
+                    log_message = f'renamed {d} to {new_dirname} inside {root}'
+                    fileIO.fileIO_writeToLog(appConfig.logFile, message = log_message)
 
-    statusMessage = "dProc_standardizeDirNames successful"
+        statusMessage = "dProc_standardizeDirNames successful"
     except:
         statusMessage = "ERROR: dProc_standardizeDirNames failed"
         
@@ -265,36 +259,30 @@ def dProc_directoryFilesAndSize(DATA_COMPRESS_STRUCT):
         fileIO.fileIO_writeToLog(appConfig.logFile, message = "SCAN THROUGH THE DIRECTORY STRUCTURE AND CALCULATE NUMBER OF FILES WITH SIZE IN EACH FOLDER.")
         fileIO.fileIO_writeToLog(appConfig.logFile, message = "Directory\tNumber of files\tFile size (GB)\tNumber of file types")
         
-        [row, col] = DATA_COMPRESS_STRUCT.df.shape
-        for i in range(row):
-            try:
-                scanDir = DATA_COMPRESS_STRUCT.df["inputDir"][i]
-            except:
-                scanDir = DATA_COMPRESS_STRUCT.df["inputDir"]
-                
-            fileIO.fileIO_dirExists(scanDir)
+        scanDir = DATA_COMPRESS_STRUCT.inputDir
+        fileIO.fileIO_dirExists(scanDir)
+        
+        for root, dirs, files in os.walk(scanDir):
+            print ("Scanning %s" %(root))
             
-            for root, dirs, files in os.walk(scanDir):
-                print ("Scanning %s" %(root))
+            fileExtList = []
+            fileSize    = 0
+            numFiles    = 0
+            
+            for name in files:
+                fileName  = os.path.join(root, name)
+                extension = fileIO.fileIO_getFileExtension(name)
                 
-                fileExtList = []
-                fileSize    = 0
-                numFiles    = 0
-                
-                for name in files:
-                    fileName  = os.path.join(root, name)
-                    extension = fileIO.fileIO_getFileExtension(name)
+                if (extension not in DATA_COMPRESS_STRUCT.exclusionList):
+                    fileExtList.append(extension)
                     
-                    if (extension not in DATA_COMPRESS_STRUCT.exclusionList):
-                        fileExtList.append(extension)
-                        
-                    numFiles += 1
-                    fileSize += os.path.getsize(fileName)
-                numFileTypes = numpy.size(numpy.unique(fileExtList))
-                fileSize     = convertUnit.convert_byte2gigabyte(fileSize)
-                
-                f.write("%s\t%d\t%.10f\t%d\n" %(root, numFiles, fileSize, numFileTypes))
-                fileIO.fileIO_writeToLog(appConfig.logFile, message = "%s\t%d\t%.10f\t%d" %(root, numFiles, fileSize, numFileTypes))
+                numFiles += 1
+                fileSize += os.path.getsize(fileName)
+            numFileTypes = numpy.size(numpy.unique(fileExtList))
+            fileSize     = convertUnit.convert_byte2gigabyte(fileSize)
+            
+            f.write("%s\t%d\t%.10f\t%d\n" %(root, numFiles, fileSize, numFileTypes))
+            fileIO.fileIO_writeToLog(appConfig.logFile, message = "%s\t%d\t%.10f\t%d" %(root, numFiles, fileSize, numFileTypes))
                 
         f.close()
         
@@ -492,25 +480,19 @@ def dProc_splitLargeFiles(DATA_COMPRESS_STRUCT):
     try:
         fileIO.fileIO_writeToLog(appConfig.logFile, message = "SPLIT LARGE FILES (> %.2f GB) INTO SMALLER FILES." %(DATA_COMPRESS_STRUCT.fileSizeLimitGB))
         
-        [row, col] = DATA_COMPRESS_STRUCT.df.shape
-        for i in range(row):
-            try:
-                scanDir = DATA_COMPRESS_STRUCT.df["inputDir"][i]
-            except:
-                scanDir = DATA_COMPRESS_STRUCT.df["inputDir"]
+        scanDir = DATA_COMPRESS_STRUCT.inputDir    
+        if (fileIO.fileIO_dirExists(scanDir) == True):
+            fileNameList = fileIO.fileIO_getFilesInDir(scanDir)
+        else:
+            fileNameList = [scanDir + ".zip"]
+            
+        for fileName in fileNameList:
+            fileSize = fileIO.fileIO_getFileSize(fileName, "GB")
+            if (fileSize > DATA_COMPRESS_STRUCT.fileSizeLimitGB):
+                fileSizeLimit       = convertUnit.convert_gigabyte2byte(DATA_COMPRESS_STRUCT.fileSizeLimitGB)
+                fileSplitChunckSize = convertUnit.convert_megabyte2byte(DATA_COMPRESS_STRUCT.fileSplitChunckSizeMB)
                 
-            if (fileIO.fileIO_dirExists(scanDir) == True):
-                fileNameList = fileIO.fileIO_getFilesInDir(scanDir)
-            else:
-                fileNameList = [scanDir + ".zip"]
-                
-            for fileName in fileNameList:
-                fileSize = fileIO.fileIO_getFileSize(fileName, "GB")
-                if (fileSize > DATA_COMPRESS_STRUCT.fileSizeLimitGB):
-                    fileSizeLimit       = convertUnit.convert_gigabyte2byte(DATA_COMPRESS_STRUCT.fileSizeLimitGB)
-                    fileSplitChunckSize = convertUnit.convert_megabyte2byte(DATA_COMPRESS_STRUCT.fileSplitChunckSizeMB)
-                    
-                    fileIO.fileIO_splitFile(fileName, fileSizeLimit, fileSplitChunckSize)
+                fileIO.fileIO_splitFile(fileName, fileSizeLimit, fileSplitChunckSize)
                     
         statusMessage = "dProc_splitLargeFiles. Successfully split large files."
     except:
