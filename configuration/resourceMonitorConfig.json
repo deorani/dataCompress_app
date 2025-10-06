@@ -1,0 +1,20 @@
+{
+    "GENERIC" :
+    {
+        "RESOURCE_CHECK_INTERVAL_S"      : 15,
+        "RESOURCE_CHECK_INTERVAL_S_DESC" : "Resource usage will be checked every RESOURCE_CHECK_INTERVAL_S seconds.",
+        "DISK_NAME"                      : "PhysicalDrive3",
+        "DISK_NAME_DESC"                 : "Name of the physical drive which is used for all the data handling I/O operations."
+    },
+    "DROPBOX_APP" :
+    {
+        "EXE"                            : "C:\\Program Files (x86)\\Dropbox\\Client\\Dropbox.exe",
+        "EXE_DESC"                       : "Full path of Dropbox executable file. This will be used to restart Dropbox app is it does not respond.",
+        "RESTART_TIME_MIN"               : 5,
+        "RESTART_TIME_MIN_DESC"          : "Wait time in minutes after the Dropbox application is forcefully terminated.",
+        "MAXIMUM_INACTIVE_TIME_MIN"      : 30,
+        "MAXIMUM_INACTIVE_TIME_MIN_DESC" : "Dropbox application will be restarted if it remains inactive for MAXIMUM_INACTIVE_TIME_MIN minutes.",
+        "MINIMUM_RESOURCE_MBPS"          : 5,
+        "MINIMUM_RESOURCE_MBPS_DESC"     : "The sum of file I/O and net I/O operations should be at least 5 MINIMUM_RESOURCE_MBPS MBps. If it is smaller, then the process will be classified as inactive."
+    }
+}

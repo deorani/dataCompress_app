@@ -1,0 +1,22 @@
+{
+    "EXCLUSION_LIST" :
+    [
+        "ini",
+        "db",
+        "db",
+        "ds_store",
+        "DS_Store",
+        "DS_Store",
+        "dropbox",
+        "attr"
+    ],
+    "EXCLUSION_LIST_DESC"            : "The files with the above extensions will not be used for compression.",
+    "FILE_SPLIT_CHUNCK_SIZE_MB"      : 1024,
+    "FILE_SPLIT_CHUNCK_SIZE_MB_DESC" : "Chunk size when the file is split into smaller pieces.",
+    "MAX_SAME_FILETYPE_IN_DIR"       : 200,
+    "MAX_SAME_FILETYPE_IN_DIR_DESC"  : "If a folder has more than 200 files of same type in a directory, it will be compressed irrespective of the directory size.",
+    "7ZIP_LOCATION_WINDOWS"          : "C:\\Program Files\\7-Zip\\7z.exe",
+    "7ZIP_LOCATION_WINDOWS_DESC"     : "Complete path of the 7zip executable file. 7zip can be downloaded here: https://www.7-zip.org/",
+    "7ZIP_LOCATION_LINUX"            : "7za",
+    "7ZIP_LOCATION_LINUX_DESC"       : "Complete path of the 7zip executable file. 7zip can be installed using sudo: apt-get install p7zip-full"
+}

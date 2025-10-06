@@ -1,0 +1,34 @@
+{
+    "DROPBOX_APP" :
+    {
+        "DROPBOX_PROFILE_DESC"           : "Dropbox profile from credential.json to be used for uploading to Dropbox.",
+        "DROPBOX_DIR"                    : "E:\\NUSCentreofBioImagin Dropbox\\Utkur Mirsaidov",
+        "DROPBOX_DIR_DESC"               : "Location of root Dropbox directory.",
+        "DROPBOX_EXCLUDE_FILE_NAME_LIST" :
+        [
+            "desktop.ini",
+            "thumbs.db",
+            "Thumbs.db",
+            ".ds_store",
+            ".DS_Store",
+            "._.DS_Store",
+            ".dropbox",
+            ".dropbox.attr"
+        ],
+        "DROPBOX_EXCLUDE_FILE_NAME_LIST_DESC" : "List of files not supported by Dropbox.",
+        "DROPBOX_EXCLUDE_FILE_CONTAIN_LIST"   :
+        [
+            "~"
+        ],
+        "DROPBOX_EXCLUDE_FILE_CONTAIN_LIST_DESC" : "File names containing ~ are not supported by Dropbox.",
+        "DROPBOX_BATCH_SIZE_GB"                  : 500,
+        "DROPBOX_BATCH_SIZE_GB_DESC"             : "Maximum size of each batch to be uploaded to Dropbox.",
+        "DROPBOX_STATUSCHECK_TIME_MIN"           : 10,
+        "DROPBOX_STATUSCHECK_TIME_MIN_DESC"      : "File upload status is checked every DROPBOX_STATUSCHECK_TIME_MIN minutes.",
+        
+        "DROPBOX_BATCH_TIME_LIMIT_HR"            : 72,
+        "DROPBOX_BATCH_TIME_LIMIT_HR_DESC"       : "If a batch is not uploaded in DROPBOX_BATCH_TIME_LIMIT_HR hours, the process will pause.",
+        "DROPBOX_CHUNK_SIZE_MB"                  : 128,
+        "DROPBOX_CHUNK_SIZE_MB_DESC"             : "When using Dropbox API upload mode, a large file will be uploaded in small chunks, where the size of each chunk is DROPBOX_CHUNK_SIZE_MB MB."
+    }
+}

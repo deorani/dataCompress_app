@@ -1,0 +1,814 @@
+Z:\zainul\Chemical Compatibility Chart
+Z:\zainul\DropboxBackup
+Z:\zainul\Experimenta_Data\20141101 Au NP
+Z:\zainul\Experimenta_Data\AE707137_D15_200nmcSi_NoCap
+Z:\zainul\Experimenta_Data\AFM
+Z:\zainul\Experimenta_Data\Ahnsomin
+Z:\zainul\Experimenta_Data\EM Exp Data Template
+Z:\zainul\Experimenta_Data\Ice Data Analysis\CrystalMaker
+Z:\zainul\Experimenta_Data\Ice Data Analysis\Good 2010Orius Movies\Selected DPs
+Z:\zainul\Experimenta_Data\Ice Data Analysis\Good 2200Orius Movies
+Z:\zainul\Experimenta_Data\Ice Data Analysis\Good AFM Data
+Z:\zainul\Experimenta_Data\Ice Data Analysis\Good DE Movies\#8_200kx25fpsBin2_20141111_SWNoPlasma_13-53-43.568VG_Droplet
+Z:\zainul\Experimenta_Data\Ice Data Analysis\Good DE Movies\Processed
+Z:\zainul\Experimenta_Data\Ice Data Analysis\Good EELS Data
+Z:\zainul\Experimenta_Data\Ice Data Analysis\Good EFTEM Thickness Maps
+Z:\zainul\Experimenta_Data\Ice Data Analysis\Good Miscellaneous Movies
+Z:\zainul\Experimenta_Data\Ice Data Analysis\PPTs
+Z:\zainul\Experimenta_Data\Ice-Au Data Analysis
+Z:\zainul\Experimenta_Data\IMEC LCs
+Z:\zainul\Experimenta_Data\IMRE
+Z:\zainul\Experimenta_Data\Interconnects
+Z:\zainul\Experimenta_Data\Jeol2010F\20140107 100AgCubes50AuIn850SigmaWater
+Z:\zainul\Experimenta_Data\Jeol2010F\20140116 AgCubesInDryHBLC
+Z:\zainul\Experimenta_Data\Jeol2010F\20140130 1mMAuIn1mMCTAB
+Z:\zainul\Experimenta_Data\Jeol2010F\20140227 10TimesDilu5nmAuInSigmaWater
+Z:\zainul\Experimenta_Data\Jeol2010F\20140515 [Done Not Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20140808 SigmaWater5nmCFilmPlasma [Done]
+Z:\zainul\Experimenta_Data\Jeol2010F\20141103 SigmaWater [Done Not Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20141210 AFMExp
+Z:\zainul\Experimenta_Data\Jeol2010F\20150312_IMEC_D04_Ethanol_HAuCl4
+Z:\zainul\Experimenta_Data\Jeol2010F\20150429 D08_200nm_aSi_Pillars_Dry
+Z:\zainul\Experimenta_Data\Jeol2010F\20150430_50nm_pSi_FocusSer
+Z:\zainul\Experimenta_Data\Jeol2010F\20150511_Dry_D08 [Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150619 [Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150626 [Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150826 [VGood]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150827 [Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150829_TwoLayerDry [Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20151026_1mMAuInSW [NotGood]
+Z:\zainul\Experimenta_Data\Jeol2010F\20151104_PartiallyEtched_aSi_SiO2_SW
+Z:\zainul\Experimenta_Data\Jeol2010F\20151120 Dry Chips with Al2O3
+Z:\zainul\Experimenta_Data\Jeol2010F\20151211 [Condensation]
+Z:\zainul\Experimenta_Data\Jeol2010F\20160114_D10_5nmMgO_ALD
+Z:\zainul\Experimenta_Data\Jeol2010F\20160226_D10_Cond
+Z:\zainul\Experimenta_Data\Jeol2010F\20160309_5nmAl2O3_BrokenMembrane
+Z:\zainul\Experimenta_Data\Jeol2010F\20160506 0.1%KOH
+Z:\zainul\Experimenta_Data\Jeol2010F\20190130_ExSitu
+Z:\zainul\Experimenta_Data\Jeol2010F\20190312_cALIBRATION
+Z:\zainul\Experimenta_Data\Jeol2010F\20131228 1mMAgInSigmaWater
+Z:\zainul\Experimenta_Data\Jeol2010F\20140224 1.2mMAuInSigma Water
+Z:\zainul\Experimenta_Data\Jeol2010F\20140502 10TimesDil10nmAuColloidal
+Z:\zainul\Experimenta_Data\Jeol2010F\20140505 10TimesDil20nmAuColloidal
+Z:\zainul\Experimenta_Data\Jeol2010F\20140514 SigmaWater [Done]
+Z:\zainul\Experimenta_Data\Jeol2010F\20140619 NanoDroplet Pinning
+Z:\zainul\Experimenta_Data\Jeol2010F\20140715 10mM KCl SigmaWater [Done]
+Z:\zainul\Experimenta_Data\Jeol2010F\20140722  10%IPA SigmaWater [Done]
+Z:\zainul\Experimenta_Data\Jeol2010F\20140910 [Done Not Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20141111 SWNoPlasma [Done Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20141113 SWNoPlasmaAndGEWater [Done Not Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20141128 BMCCLCGEWater
+Z:\zainul\Experimenta_Data\Jeol2010F\20150123_PT_BSCC_LC_D2O
+Z:\zainul\Experimenta_Data\Jeol2010F\20150204_NPT_IMEC_LC_GEW (0103 LC)
+Z:\zainul\Experimenta_Data\Jeol2010F\20150206_NPT_IMEC_LC_1%KOH_GEW
+Z:\zainul\Experimenta_Data\Jeol2010F\20150225
+Z:\zainul\Experimenta_Data\Jeol2010F\20150414_IMEC_D05
+Z:\zainul\Experimenta_Data\Jeol2010F\20150509
+Z:\zainul\Experimenta_Data\Jeol2010F\20150613 [Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150718_ExSitu
+Z:\zainul\Experimenta_Data\Jeol2010F\20150821_D08_3%KOH
+Z:\zainul\Experimenta_Data\Jeol2010F\20150901 [NotGood]
+Z:\zainul\Experimenta_Data\Jeol2010F\20151019_SiN_5nm
+Z:\zainul\Experimenta_Data\Jeol2010F\20151023_SiN_60+5nm
+Z:\zainul\Experimenta_Data\Jeol2010F\20151113_50nm_p-Si_Film_SW_NanoWriting
+Z:\zainul\Experimenta_Data\Jeol2010F\20151216 [4%KOH_OneView]\OneView\1
+Z:\zainul\Experimenta_Data\Jeol2010F\20151216 [4%KOH_OneView]\OneView\2
+Z:\zainul\Experimenta_Data\Jeol2010F\20151216 [4%KOH_OneView]\OneView\25
+Z:\zainul\Experimenta_Data\Jeol2010F\20151229 30% KOH Etching [Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20160121 Tilted Pillar Growth
+Z:\zainul\Experimenta_Data\Jeol2010F\20160122 Column Defect OneView Camera
+Z:\zainul\Experimenta_Data\Jeol2010F\20160202 After 3s DRIE of Al2O3 ALD Pillars
+Z:\zainul\Experimenta_Data\Jeol2010F\20160414
+Z:\zainul\Experimenta_Data\Jeol2010F\20160415 [aSi TMAH Etch]
+Z:\zainul\Experimenta_Data\Jeol2010F\20160505 0.1&0.5%KOH
+Z:\zainul\Experimenta_Data\Jeol2010F\20190321_ExSitu
+Z:\zainul\Experimenta_Data\Jeol2010F\20190327_ExSitu
+Z:\zainul\Experimenta_Data\Jeol2010F\20140106  100AgCubes100AuIn800SigmaWater
+Z:\zainul\Experimenta_Data\Jeol2010F\20140203 1.2&2mMAuInSigmaWater
+Z:\zainul\Experimenta_Data\Jeol2010F\20140306 PureSigmaWater
+Z:\zainul\Experimenta_Data\Jeol2010F\20140318 PureSigmaWater
+Z:\zainul\Experimenta_Data\Jeol2010F\20140518 GLC12Top Water
+Z:\zainul\Experimenta_Data\Jeol2010F\20140716  50mM KCl SigmaWater [Done Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20141108 SigmaWaterPlasma [Done Not Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150331_IMEC [NotGod_DryDM3ImagesGood]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150424 IMEC D04 Water
+Z:\zainul\Experimenta_Data\Jeol2010F\20150424 IMEC_50nm_Film
+Z:\zainul\Experimenta_Data\Jeol2010F\20150506_D08_2%KOH [Good] [Done]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150515_D08_2%KOH [Good] [Done]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150713 [Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150716_D08_3%KOH
+Z:\zainul\Experimenta_Data\Jeol2010F\20150722_D08_3%KOH
+Z:\zainul\Experimenta_Data\Jeol2010F\20150813_D08_4%KOH
+Z:\zainul\Experimenta_Data\Jeol2010F\20150825_DryHydPhob_NP
+Z:\zainul\Experimenta_Data\Jeol2010F\20150831 [NotGood]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150909 [NP_Dendrite-Growth]
+Z:\zainul\Experimenta_Data\Jeol2010F\20160106_D04_5nmALD
+Z:\zainul\Experimenta_Data\Jeol2010F\20160318_Silane
+Z:\zainul\Experimenta_Data\Jeol2010F\20160513 KOH&TMAH [Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20190226
+Z:\zainul\Experimenta_Data\Jeol2010F\20140130 PureSigmaWater [Done]
+Z:\zainul\Experimenta_Data\Jeol2010F\20140617 DryAssembledLC and Water [Done Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20140626 1mMAuInWater IMEC Chip Test
+Z:\zainul\Experimenta_Data\Jeol2010F\20140812 SigmaWater5nmCFilmOutSidePlasma [Done}
+Z:\zainul\Experimenta_Data\Jeol2010F\20140908 SWSLPlasma [Done DrpletWithout Crystallization]
+Z:\zainul\Experimenta_Data\Jeol2010F\20140917 SigmaWaterSpacLess [Done Not Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20141203_PT_UMCC_LC_GEW
+Z:\zainul\Experimenta_Data\Jeol2010F\20141223_PT_LC_GEW
+Z:\zainul\Experimenta_Data\Jeol2010F\20150203_NPT_IMEC_LC_GEW
+Z:\zainul\Experimenta_Data\Jeol2010F\20150310_IMEC_D04_SW_NP_NC [Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150318_IMEC [Good]\0001_D05_PT_SW
+Z:\zainul\Experimenta_Data\Jeol2010F\20150318_IMEC [Good]\0002_D05_PT_SW
+Z:\zainul\Experimenta_Data\Jeol2010F\20150318_IMEC [Good]\0003_D05_PT_SW
+Z:\zainul\Experimenta_Data\Jeol2010F\20150318_IMEC [Good]\0004_D05_PT_SW
+Z:\zainul\Experimenta_Data\Jeol2010F\20150318_IMEC [Good]\0005_D05_PT_SW
+Z:\zainul\Experimenta_Data\Jeol2010F\20150318_IMEC [Good]\0006_D05_PT_SW_G_NEtching
+Z:\zainul\Experimenta_Data\Jeol2010F\20150318_IMEC [Good]\0007_D05_PT_SW_G_NP
+Z:\zainul\Experimenta_Data\Jeol2010F\20150318_IMEC [Good]\0008_D05_PT_SW_G_Bridge
+Z:\zainul\Experimenta_Data\Jeol2010F\20150318_IMEC [Good]\0009_D05_PT_SW
+Z:\zainul\Experimenta_Data\Jeol2010F\20150318_IMEC [Good]\0010_D05_PT_SW_VG
+Z:\zainul\Experimenta_Data\Jeol2010F\20150318_IMEC [Good]\0011_D05_PT_SW_G
+Z:\zainul\Experimenta_Data\Jeol2010F\20150318_IMEC [Good]\0012_D05_PT_SW_G_Edge
+Z:\zainul\Experimenta_Data\Jeol2010F\20150318_IMEC [Good]\0013_D05_PT_SW
+Z:\zainul\Experimenta_Data\Jeol2010F\20150318_IMEC [Good]\0014_D05_PT_SW_G
+Z:\zainul\Experimenta_Data\Jeol2010F\20150318_IMEC [Good]\0015_D05_PT_SW
+Z:\zainul\Experimenta_Data\Jeol2010F\20150318_IMEC [Good]\0016_D05_PT_SW_G
+Z:\zainul\Experimenta_Data\Jeol2010F\20150318_IMEC [Good]\0017_D05_PT_SW_8kxG
+Z:\zainul\Experimenta_Data\Jeol2010F\20150318_IMEC [Good]\0018_D05_PT_SW_12kxG
+Z:\zainul\Experimenta_Data\Jeol2010F\20150318_IMEC [Good]\0019_D05_PT_SW_G
+Z:\zainul\Experimenta_Data\Jeol2010F\20150318_IMEC [Good]\0020_D05_PT_SW_G
+Z:\zainul\Experimenta_Data\Jeol2010F\20150318_IMEC [Good]\0021_D05_PT_2KOH_G
+Z:\zainul\Experimenta_Data\Jeol2010F\20150318_IMEC [Good]\0022_D05_PT_2KOH_G
+Z:\zainul\Experimenta_Data\Jeol2010F\20150318_IMEC [Good]\0023_D05_PT_2KOH
+Z:\zainul\Experimenta_Data\Jeol2010F\20150318_IMEC [Good]\0024_D05_PT_2KOH_VG
+Z:\zainul\Experimenta_Data\Jeol2010F\20150318_IMEC [Good]\0025_D05_PT_2KOH
+Z:\zainul\Experimenta_Data\Jeol2010F\20150324_IMEC_2%KOH [NotGood]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150406_AFMExp
+Z:\zainul\Experimenta_Data\Jeol2010F\20150501_D08_Dry_Broken [VGood]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150520_D08_2%KOH [Good] [Done]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150525_HF_KOH_Dry [Ex-situ] [Good] [Done]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150528_OA_DoseCalibration [Good] [Done]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150616 [Good 4 and 1%]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150818_NP_Diffusion
+Z:\zainul\Experimenta_Data\Jeol2010F\20151106_Si_Nanorod
+Z:\zainul\Experimenta_Data\Jeol2010F\20151120 [20%KOH]
+Z:\zainul\Experimenta_Data\Jeol2010F\20151224_15%_KOH
+Z:\zainul\Experimenta_Data\Jeol2010F\20160208 After 35s DRIE of Al2O3 ALD Pillars
+Z:\zainul\Experimenta_Data\Jeol2010F\20160222 TMAH and KOH Test
+Z:\zainul\Experimenta_Data\Jeol2010F\20160407_5%TMAH
+Z:\zainul\Experimenta_Data\Jeol2010F\20160429 HF Treat Dry
+Z:\zainul\Experimenta_Data\Jeol2010F\20190214_ExSitu
+Z:\zainul\Experimenta_Data\Jeol2010F\20131227 1mMAuIn1mMCTAB
+Z:\zainul\Experimenta_Data\Jeol2010F\20140107 1mMAgCubesInSigmaWater
+Z:\zainul\Experimenta_Data\Jeol2010F\20140118 100AgCubes10AuIn890SigmaWater
+Z:\zainul\Experimenta_Data\Jeol2010F\20140120 100AgCubes2AuIn900SigmaWater
+Z:\zainul\Experimenta_Data\Jeol2010F\20140120 100AgCubes5AuIn900SigmaWater
+Z:\zainul\Experimenta_Data\Jeol2010F\20140205 1.2mMAuInSigmaWater
+Z:\zainul\Experimenta_Data\Jeol2010F\20140207 1.2mMAuInSigmaWater
+Z:\zainul\Experimenta_Data\Jeol2010F\20140227 PureSigmaWater [Done]
+Z:\zainul\Experimenta_Data\Jeol2010F\20140303 DryAssembledLC [Done]
+Z:\zainul\Experimenta_Data\Jeol2010F\20140414 1mMAuIn1mMCTAB
+Z:\zainul\Experimenta_Data\Jeol2010F\20140522 Only Bottom LC [Done]
+Z:\zainul\Experimenta_Data\Jeol2010F\20140529 5TD20nmAuColl
+Z:\zainul\Experimenta_Data\Jeol2010F\20140529 SigmaWater [Done]
+Z:\zainul\Experimenta_Data\Jeol2010F\20140610 1mMAuIn2mMCTAB
+Z:\zainul\Experimenta_Data\Jeol2010F\20140709 SWPlasma [Done]
+Z:\zainul\Experimenta_Data\Jeol2010F\20140729 SWNoPlasma [Done Not Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20140805 SigmaWater IMEC Chip
+Z:\zainul\Experimenta_Data\Jeol2010F\20141121 GEWPlasma [Done Good Img&DP]
+Z:\zainul\Experimenta_Data\Jeol2010F\20141206 AFMExp
+Z:\zainul\Experimenta_Data\Jeol2010F\20150115 IMEC NanoSLC Dry Test
+Z:\zainul\Experimenta_Data\Jeol2010F\20150130
+Z:\zainul\Experimenta_Data\Jeol2010F\20150218_IMEC_Membrane_Check
+Z:\zainul\Experimenta_Data\Jeol2010F\20150227_SW [Good}
+Z:\zainul\Experimenta_Data\Jeol2010F\20150328 AFMExp
+Z:\zainul\Experimenta_Data\Jeol2010F\20150505_D08_2%KOH [NotGood] [Done]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150603 [Good] [Done]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150618 [Good 2%]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150622 [Good 2%]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150630 [Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150828 [Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150910 [NotGood]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150916_DrySiO2Membrane_AfterFilmRemoval
+Z:\zainul\Experimenta_Data\Jeol2010F\20151119 D08 SW Condensation [VGood]
+Z:\zainul\Experimenta_Data\Jeol2010F\20160408_1%HF+5%TMAH
+Z:\zainul\Experimenta_Data\Jeol2010F\20160422 [Not Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20160608 [Not Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20190319DryD12
+Z:\zainul\Experimenta_Data\Jeol2010F\20131230 1mMAuIn1mMCTAB 2
+Z:\zainul\Experimenta_Data\Jeol2010F\20140113 1mMAgInSigmaWater
+Z:\zainul\Experimenta_Data\Jeol2010F\20140518 GLC10Top Water
+Z:\zainul\Experimenta_Data\Jeol2010F\20140527 1mMAuInCTAB
+Z:\zainul\Experimenta_Data\Jeol2010F\20140603 1mMAuIn4mMCTAB
+Z:\zainul\Experimenta_Data\Jeol2010F\20140702 SWPlasma [Done Bubbles]
+Z:\zainul\Experimenta_Data\Jeol2010F\20140711 SWPlasma [Done VG]
+Z:\zainul\Experimenta_Data\Jeol2010F\20140724 IMEC Chip Test
+Z:\zainul\Experimenta_Data\Jeol2010F\20141229 DrySiNx
+Z:\zainul\Experimenta_Data\Jeol2010F\20141229_PT_LC_GEW
+Z:\zainul\Experimenta_Data\Jeol2010F\20150217_IMEC_Rolled_Membrane
+Z:\zainul\Experimenta_Data\Jeol2010F\20150326_IMEC_0.5%KOH [Good]\0001_Movie
+Z:\zainul\Experimenta_Data\Jeol2010F\20150326_IMEC_0.5%KOH [Good]\0002_Movie
+Z:\zainul\Experimenta_Data\Jeol2010F\20150326_IMEC_0.5%KOH [Good]\0003_Movie_G
+Z:\zainul\Experimenta_Data\Jeol2010F\20150326_IMEC_0.5%KOH [Good]\0004_Movie
+Z:\zainul\Experimenta_Data\Jeol2010F\20150326_IMEC_0.5%KOH [Good]\0005_Movie
+Z:\zainul\Experimenta_Data\Jeol2010F\20150326_IMEC_0.5%KOH [Good]\0006_Movie
+Z:\zainul\Experimenta_Data\Jeol2010F\20150326_IMEC_0.5%KOH [Good]\0007_Movie_VG
+Z:\zainul\Experimenta_Data\Jeol2010F\20150326_IMEC_0.5%KOH [Good]\0008_Movie
+Z:\zainul\Experimenta_Data\Jeol2010F\20150326_IMEC_0.5%KOH [Good]\0009_Movie_VG_Growth
+Z:\zainul\Experimenta_Data\Jeol2010F\20150326_IMEC_0.5%KOH [Good]\0010_Movie_VG_HM_Growth
+Z:\zainul\Experimenta_Data\Jeol2010F\20150326_IMEC_0.5%KOH [Good]\0011_Movie
+Z:\zainul\Experimenta_Data\Jeol2010F\20150326_IMEC_0.5%KOH [Good]\0012_Movie
+Z:\zainul\Experimenta_Data\Jeol2010F\20150326_IMEC_0.5%KOH [Good]\0013_Movie
+Z:\zainul\Experimenta_Data\Jeol2010F\20150326_IMEC_0.5%KOH [Good]\0014_Movie
+Z:\zainul\Experimenta_Data\Jeol2010F\20150326_IMEC_0.5%KOH [Good]\0015_Movie_VG_Blanked
+Z:\zainul\Experimenta_Data\Jeol2010F\20150326_IMEC_0.5%KOH [Good]\0016_Movie
+Z:\zainul\Experimenta_Data\Jeol2010F\20150326_IMEC_0.5%KOH [Good]\0017_Movie
+Z:\zainul\Experimenta_Data\Jeol2010F\20150326_IMEC_0.5%KOH [Good]\0018_Movie
+Z:\zainul\Experimenta_Data\Jeol2010F\20150326_IMEC_0.5%KOH [Good]\0019_Movie
+Z:\zainul\Experimenta_Data\Jeol2010F\20150326_IMEC_0.5%KOH [Good]\0020_Movie
+Z:\zainul\Experimenta_Data\Jeol2010F\20150416_IMEC_D04
+Z:\zainul\Experimenta_Data\Jeol2010F\20150421 Dry 50nm pSi
+Z:\zainul\Experimenta_Data\Jeol2010F\20150508_D08_SW_KOH [Good] [Done]\1%KOH
+Z:\zainul\Experimenta_Data\Jeol2010F\20150508_D08_SW_KOH [Good] [Done]\3%KOH
+Z:\zainul\Experimenta_Data\Jeol2010F\20150508_D08_SW_KOH [Good] [Done]\4%KOH
+Z:\zainul\Experimenta_Data\Jeol2010F\20150508_D08_SW_KOH [Good] [Done]\Water
+Z:\zainul\Experimenta_Data\Jeol2010F\20150911 [Good NP Motion]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150916 [Good NP Motion]
+Z:\zainul\Experimenta_Data\Jeol2010F\20151028
+Z:\zainul\Experimenta_Data\Jeol2010F\20151102_NanoRod
+Z:\zainul\Experimenta_Data\Jeol2010F\20160217_D08_5nmAl2O3_Cond
+Z:\zainul\Experimenta_Data\Jeol2010F\20160220
+Z:\zainul\Experimenta_Data\Jeol2010F\20160224_D08_10nmAl2O3_Cond
+Z:\zainul\Experimenta_Data\Jeol2010F\20160303_pSi_Film_BrokenMembrane
+Z:\zainul\Experimenta_Data\Jeol2010F\20160304_D10_5nmAl2O3_1%KOH
+Z:\zainul\Experimenta_Data\Jeol2010F\20160412_1%HF60s_5%TMAH45s
+Z:\zainul\Experimenta_Data\Jeol2010F\20160421_Cond [Not Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20190225_ExSitu
+Z:\zainul\Experimenta_Data\Jeol2010F\Condensation\20170616_Good_Drying_Condensation
+Z:\zainul\Experimenta_Data\Jeol2010F\Condensation\20170719_200nm_aSi_Nanopillars_SW\001
+Z:\zainul\Experimenta_Data\Jeol2010F\Condensation\20170719_200nm_aSi_Nanopillars_SW\002
+Z:\zainul\Experimenta_Data\Jeol2010F\Condensation\20170719_200nm_aSi_Nanopillars_SW\003
+Z:\zainul\Experimenta_Data\Jeol2010F\Condensation\20170719_200nm_aSi_Nanopillars_SW\004
+Z:\zainul\Experimenta_Data\Jeol2010F\Condensation\20170719_200nm_aSi_Nanopillars_SW\005
+Z:\zainul\Experimenta_Data\Jeol2010F\Condensation\20170719_200nm_aSi_Nanopillars_SW\006
+Z:\zainul\Experimenta_Data\Jeol2010F\Condensation\20170719_200nm_aSi_Nanopillars_SW\007
+Z:\zainul\Experimenta_Data\Jeol2010F\Condensation\20170719_200nm_aSi_Nanopillars_SW\008
+Z:\zainul\Experimenta_Data\Jeol2010F\Condensation\20170719_200nm_aSi_Nanopillars_SW\009
+Z:\zainul\Experimenta_Data\Jeol2010F\Condensation\20170719_200nm_aSi_Nanopillars_SW\010
+Z:\zainul\Experimenta_Data\Jeol2010F\Condensation\20170719_200nm_aSi_Nanopillars_SW\011
+Z:\zainul\Experimenta_Data\Jeol2010F\Condensation\20170719_200nm_aSi_Nanopillars_SW\012
+Z:\zainul\Experimenta_Data\Jeol2010F\Condensation\20170719_200nm_aSi_Nanopillars_SW\013
+Z:\zainul\Experimenta_Data\Jeol2010F\Condensation\20170719_200nm_aSi_Nanopillars_SW\014
+Z:\zainul\Experimenta_Data\Jeol2010F\Condensation\20170719_200nm_aSi_Nanopillars_SW\015
+Z:\zainul\Experimenta_Data\Jeol2010F\Condensation\20170719_200nm_aSi_Nanopillars_SW\016
+Z:\zainul\Experimenta_Data\Jeol2010F\Condensation\20170719_200nm_aSi_Nanopillars_SW\017
+Z:\zainul\Experimenta_Data\Jeol2010F\Condensation\20170719_200nm_aSi_Nanopillars_SW\018
+Z:\zainul\Experimenta_Data\Jeol2010F\Condensation\20170719_200nm_aSi_Nanopillars_SW\019
+Z:\zainul\Experimenta_Data\Jeol2010F\Condensation\20170719_200nm_aSi_Nanopillars_SW\020
+Z:\zainul\Experimenta_Data\Jeol2010F\Condensation\20170719_200nm_aSi_Nanopillars_SW\021
+Z:\zainul\Experimenta_Data\Jeol2010F\Condensation\20170719_200nm_aSi_Nanopillars_SW\5nmParticles
+Z:\zainul\Experimenta_Data\Jeol2010F\Condensation\20170727_200nm_aSi_SW
+Z:\zainul\Experimenta_Data\Jeol2010F\Condensation\20170816_Low_Mag_Cond
+Z:\zainul\Experimenta_Data\Jeol2010F\20140109 100AgCubes10AuIn900SigmaWater
+Z:\zainul\Experimenta_Data\Jeol2010F\20140128 1mMAuIn1mMCTAB\1 mM Au in 1 mM CTAB nano Chain Formation ZA
+Z:\zainul\Experimenta_Data\Jeol2010F\20140130 1mMAuInSigmaWater
+Z:\zainul\Experimenta_Data\Jeol2010F\20140219 1mMAuIn1mMCTAB
+Z:\zainul\Experimenta_Data\Jeol2010F\20140303 PureSigmaWater [Done]
+Z:\zainul\Experimenta_Data\Jeol2010F\20140408 1mMAuIn1mMCTAB
+Z:\zainul\Experimenta_Data\Jeol2010F\20140421 1mMAuIn1mMCTAB
+Z:\zainul\Experimenta_Data\Jeol2010F\20140716 SWNoPlasma [Done OK]
+Z:\zainul\Experimenta_Data\Jeol2010F\20140730 SWNoPlasma [Done Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20140916 DryGrapheneSiNxMembrane
+Z:\zainul\Experimenta_Data\Jeol2010F\20141223_DryLCs
+Z:\zainul\Experimenta_Data\Jeol2010F\20150120_PT_LC_D2O
+Z:\zainul\Experimenta_Data\Jeol2010F\20150319_IMEC [Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150408_IMEC_D04
+Z:\zainul\Experimenta_Data\Jeol2010F\20150504_50nm_pSi
+Z:\zainul\Experimenta_Data\Jeol2010F\20150613_Ex_Situ_Exp
+Z:\zainul\Experimenta_Data\Jeol2010F\20150903_10nmAuNPs_New [Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150918 [Dry Images Good_NPAssembly]
+Z:\zainul\Experimenta_Data\Jeol2010F\20160129_D08_5nmAl2O3_Cond
+Z:\zainul\Experimenta_Data\Jeol2010F\20160211 10%KOH Si Core Etching [Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20160218_D08_10nmAl2O3_Cond
+Z:\zainul\Experimenta_Data\Jeol2010F\20160225_ALD_DRIE_Half_Si_Pillar
+Z:\zainul\Experimenta_Data\Jeol2010F\20190829_ZnS\002
+Z:\zainul\Experimenta_Data\Jeol2010F\20190829_ZnS\002_converted
+Z:\zainul\Experimenta_Data\Jeol2010F\20190829_ZnS\003
+Z:\zainul\Experimenta_Data\Jeol2010F\20190829_ZnS\003_converted
+Z:\zainul\Experimenta_Data\Jeol2010F\20190829_ZnS\004
+Z:\zainul\Experimenta_Data\Jeol2010F\20190829_ZnS\004_converted
+Z:\zainul\Experimenta_Data\Jeol2010F\20190829_ZnS\006
+Z:\zainul\Experimenta_Data\Jeol2010F\20190829_ZnS\006_converted
+Z:\zainul\Experimenta_Data\Jeol2010F\20190829_ZnS\007
+Z:\zainul\Experimenta_Data\Jeol2010F\20190829_ZnS\007_converted
+Z:\zainul\Experimenta_Data\Jeol2010F\20190829_ZnS\008
+Z:\zainul\Experimenta_Data\Jeol2010F\20190829_ZnS\008_converted
+Z:\zainul\Experimenta_Data\Jeol2010F\20190829_ZnS\009
+Z:\zainul\Experimenta_Data\Jeol2010F\20190829_ZnS\009_converted
+Z:\zainul\Experimenta_Data\Jeol2010F\20190829_ZnS\010
+Z:\zainul\Experimenta_Data\Jeol2010F\20190829_ZnS\010_converted
+Z:\zainul\Experimenta_Data\Jeol2010F\20190829_ZnS\011
+Z:\zainul\Experimenta_Data\Jeol2010F\20190829_ZnS\011_converted
+Z:\zainul\Experimenta_Data\Jeol2010F\20190829_ZnS\012
+Z:\zainul\Experimenta_Data\Jeol2010F\20190829_ZnS\012_converted
+Z:\zainul\Experimenta_Data\Jeol2010F\20190829_ZnS\013
+Z:\zainul\Experimenta_Data\Jeol2010F\20190829_ZnS\013_converted
+Z:\zainul\Experimenta_Data\Jeol2010F\20131230 1mMAuIn1mMCTAB
+Z:\zainul\Experimenta_Data\Jeol2010F\20140106 1mMAgCubesInSigmaWater
+Z:\zainul\Experimenta_Data\Jeol2010F\20140109 50AgCubes10AuIn950SigmaWater
+Z:\zainul\Experimenta_Data\Jeol2010F\20140114 1mMAuIn1mMCTAB
+Z:\zainul\Experimenta_Data\Jeol2010F\20140221 1.2mMAgInSigma Water
+Z:\zainul\Experimenta_Data\Jeol2010F\20140224 1.2mMAgInSigma Water
+Z:\zainul\Experimenta_Data\Jeol2010F\20140327 HB LC SigmaWater
+Z:\zainul\Experimenta_Data\Jeol2010F\20140403 1mMAuIn1mMCTAB
+Z:\zainul\Experimenta_Data\Jeol2010F\20140410 10TimesDil20nmAuColloidal
+Z:\zainul\Experimenta_Data\Jeol2010F\20140508 DryAssembledLC [Done]
+Z:\zainul\Experimenta_Data\Jeol2010F\20140522 SigmaWater [Dne Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20140813 SigmaWater [Done Garbage]
+Z:\zainul\Experimenta_Data\Jeol2010F\20140904 SWSLPlasma [Done Good Contamination]
+Z:\zainul\Experimenta_Data\Jeol2010F\20141027 1%H3PO4InGEWater 10%NoBeam [Done Not Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150106_PT_LC_GEW
+Z:\zainul\Experimenta_Data\Jeol2010F\20150110 AFM
+Z:\zainul\Experimenta_Data\Jeol2010F\20150113_PT_LC_GEW Aperture
+Z:\zainul\Experimenta_Data\Jeol2010F\20150306_DryIMEC_Chip
+Z:\zainul\Experimenta_Data\Jeol2010F\20150330_IMEC_3%KOH [VGood]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150409_PT_LC_SW
+Z:\zainul\Experimenta_Data\Jeol2010F\20150604 [50nm and 200nm Good] [Done]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150904_Dry_NPs [Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20150910_DryNW
+Z:\zainul\Experimenta_Data\Jeol2010F\20150915_SiO2Membrane [Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20151218 [4%KOH_Blanking]\01
+Z:\zainul\Experimenta_Data\Jeol2010F\20151218 [4%KOH_Blanking]\02
+Z:\zainul\Experimenta_Data\Jeol2010F\20151218 [4%KOH_Blanking]\03
+Z:\zainul\Experimenta_Data\Jeol2010F\20151218 [4%KOH_Blanking]\04
+Z:\zainul\Experimenta_Data\Jeol2010F\20151218 [4%KOH_Blanking]\05
+Z:\zainul\Experimenta_Data\Jeol2010F\20151218 [4%KOH_Blanking]\06
+Z:\zainul\Experimenta_Data\Jeol2010F\20160201 D10_10nmAu
+Z:\zainul\Experimenta_Data\Jeol2010F\20160201
+Z:\zainul\Experimenta_Data\Jeol2010F\20160324_Silane
+Z:\zainul\Experimenta_Data\Jeol2010F\20160503 0.4%KOH [Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20160509  [Not Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\20160512 KOH&TMAH [Good]
+Z:\zainul\Experimenta_Data\Jeol2010F\SAA
+Z:\zainul\Experimenta_Data\Jeol2200FS\20140813 Au10nmNPs on CuGrid (dose)
+Z:\zainul\Experimenta_Data\Jeol2200FS\20140829_PT_LC_SW [Done]
+Z:\zainul\Experimenta_Data\Jeol2200FS\20140918_PT_LC_SW [Done]
+Z:\zainul\Experimenta_Data\Jeol2200FS\20141106_PT_LC_GEW [Done]
+Z:\zainul\Experimenta_Data\Jeol2200FS\20141106_PT_LC_SW [Done]
+Z:\zainul\Experimenta_Data\Jeol2200FS\20141111_NPT_LC_SW [Done Droplet DP]\DE
+Z:\zainul\Experimenta_Data\Jeol2200FS\20141113_NPT_LC_SW [Done]\DE\New folder
+Z:\zainul\Experimenta_Data\Jeol2200FS\20141117_PT_LC_GEW [Done EFTEM GMovies]\DE Camera\New folder
+Z:\zainul\Experimenta_Data\Jeol2200FS\20141117_PT_LC_GEW [Done EFTEM GMovies]\MultiMap_November 17 2014_1
+Z:\zainul\Experimenta_Data\Jeol2200FS\20141117_PT_LC_GEW [Done EFTEM GMovies]\MultiMap_November 17 2014_2
+Z:\zainul\Experimenta_Data\Jeol2200FS\20141117_PT_LC_GEW [Done EFTEM GMovies]\MultiMap_November 17 2014_3
+Z:\zainul\Experimenta_Data\Jeol2200FS\20141117_PT_LC_GEW [Done EFTEM GMovies]\MultiMap_November 17 2014_4
+Z:\zainul\Experimenta_Data\Jeol2200FS\20141126_PT_BMCC_LC_1mMAuSW [Done]
+Z:\zainul\Experimenta_Data\Jeol2200FS\20141202_N&PT_LC_GEW [EELS]
+Z:\zainul\Experimenta_Data\Jeol2200FS\20141209_PT_LMCC_LC_GEW
+Z:\zainul\Experimenta_Data\Jeol2200FS\20141218_PT_BMCC_LC_GEW
+Z:\zainul\Experimenta_Data\Jeol2200FS\20141224 Dry SiNx and Vacc Dose
+Z:\zainul\Experimenta_Data\Jeol2200FS\20150131_PT_LC_D2O\Camera 1\18_20150131_133707_2015-02-03-12-23
+Z:\zainul\Experimenta_Data\Jeol2200FS\20150131_PT_LC_D2O\Camera 1\18_20150131_Processed
+Z:\zainul\Experimenta_Data\Jeol2200FS\20150512_D08_Dry
+Z:\zainul\Experimenta_Data\Jeol2200FS\20150522
+Z:\zainul\Experimenta_Data\Jeol2200FS\20150525
+Z:\zainul\Experimenta_Data\Jeol2200FS\20150706
+Z:\zainul\Experimenta_Data\Jeol2200FS\20150710
+Z:\zainul\Experimenta_Data\Jeol2200FS\20160219
+Z:\zainul\Experimenta_Data\Jeol2200FS\20160810_D14
+Z:\zainul\Experimenta_Data\Jeol2200FS\20170120
+Z:\zainul\Experimenta_Data\Jeol2200FS\20170124
+Z:\zainul\Experimenta_Data\Jeol2200FS\20170221
+Z:\zainul\Experimenta_Data\Jeol2200FS\20171005_FlowHolder_Test
+Z:\zainul\Experimenta_Data\Jeol2200FS\20171013_FlowHolder_Test
+Z:\zainul\Experimenta_Data\Jeol2200FS\20171214_Dry_cS0_90nmPitch
+Z:\zainul\Experimenta_Data\Jeol2200FS\DP 10nm Au Particles by Jeol2200FS
+Z:\zainul\Experimenta_Data\Jeol2200FS\EFTEM 24.10.14
+Z:\zainul\Experimenta_Data\Jeol2200FS\Ref Spectra From Gatan EELS Atlas
+Z:\zainul\Experimenta_Data\Light Microscope
+Z:\zainul\Experimenta_Data\Miscellaneous\Utkur Graphene Data\s1
+Z:\zainul\Experimenta_Data\Miscellaneous\Utkur Graphene Data\s4
+Z:\zainul\Experimenta_Data\Miscellaneous\Utkur Graphene Data\s5
+Z:\zainul\Experimenta_Data\Miscellaneous\Utkur Graphene Data\2nd day
+Z:\zainul\Experimenta_Data\Miscellaneous\Utkur Graphene Data\s3
+Z:\zainul\Experimenta_Data\Miscellaneous\Utkur Graphene Data\s6
+Z:\zainul\Experimenta_Data\Miscellaneous\Utkur Graphene Data\s2
+Z:\zainul\Experimenta_Data\Miscellaneous\Utkur Graphene Data\s7
+Z:\zainul\Experimenta_Data\Titan IMRE
+Z:\zainul\Experimenta_Data\Zainul_Garbage\20171027_KOH_Etching_480nm_Si_Pillar\001
+Z:\zainul\Experimenta_Data\Zainul_Garbage\20171027_KOH_Etching_480nm_Si_Pillar\001_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\20171027_KOH_Etching_480nm_Si_Pillar\002
+Z:\zainul\Experimenta_Data\Zainul_Garbage\20171027_KOH_Etching_480nm_Si_Pillar\002_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\20171027_KOH_Etching_480nm_Si_Pillar\003
+Z:\zainul\Experimenta_Data\Zainul_Garbage\20171027_KOH_Etching_480nm_Si_Pillar\003_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\20171027_KOH_Etching_480nm_Si_Pillar\004
+Z:\zainul\Experimenta_Data\Zainul_Garbage\20171027_KOH_Etching_480nm_Si_Pillar\004_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\Antoine_Film_Sample
+Z:\zainul\Experimenta_Data\Zainul_Garbage\aSi
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\20160616_4%NH4OH&5%TMAH
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\20160617_Dry_5nmSiNx
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\20160624_HF_5%TMAH [Not Good]
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\20160630 Membrane Thickness
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\20160713 [Exsitu]
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\20160802 [Not Good 5%TMAH cSi]
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\20160804_NativeOxide_GrowthAfter_HF_Treatment_CS
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\20160805 [Good Cond in TMAH]
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\20160909 [Not Good]
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\20160922 [Good]
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\20160923
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\20160927 [GNot Good]
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\20160928
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\20161006
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\20161007
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\20161013
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\20161020
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\20161021
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\20161026
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\20161123_1%KOH_6s_ExSitu_NotGood
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\20161201_InSitu
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\20161209_IMEC_FlowChip
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\20161214_Good_InSitu\011
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\20161214_Good_InSitu\012
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\20161214_Good_InSitu\013
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\20161214_Good_InSitu\014
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\45_Rotated_Nanopillars
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D10_200nm_cSi\20180205_cSi_D10_2%KOH_1%IPA\001
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D10_200nm_cSi\20180205_cSi_D10_2%KOH_1%IPA\002
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D10_200nm_cSi\20180205_cSi_D10_2%KOH_1%IPA\003
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D10_200nm_cSi\20180205_cSi_D10_2%KOH_1%IPA\004
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D10_200nm_cSi\D10_cSi_5%TMAH_60C_5s
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D10_200nm_cSi\D10_CSi_NoEtching
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D11_200nm_cSi\201805114_AE707137_D11_200nm_cSi_1%KOH_InSitu\001
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D11_200nm_cSi\201805114_AE707137_D11_200nm_cSi_1%KOH_InSitu\002
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D11_200nm_cSi\201805114_AE707137_D11_200nm_cSi_1%KOH_InSitu\003
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D11_200nm_cSi\201805114_AE707137_D11_200nm_cSi_1%KOH_InSitu\004
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20170222 [Not Good]\001
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20170222 [Not Good]\002
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20170222 [Not Good]\003
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20170222 [Not Good]\004
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20170602_Not_Good_Water_On_Top_membrane\002
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20170602_Not_Good_Water_On_Top_membrane\003
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20170602_Not_Good_Water_On_Top_membrane\004
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20170602_Not_Good_Water_On_Top_membrane\005
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20170602_Not_Good_Water_On_Top_membrane\006
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20170602_Not_Good_Water_On_Top_membrane\007
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20170602_Not_Good_Water_On_Top_membrane\008
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20170602_Not_Good_Water_On_Top_membrane\009
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20170602_Not_Good_Water_On_Top_membrane\010
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20170602_Not_Good_Water_On_Top_membrane\011
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20170705_Pillar_Bend_dry_Images
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20170801_NotGood
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180103_cSi_D10_5%TMAH\001
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180103_cSi_D10_5%TMAH\001_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180103_cSi_D10_5%TMAH\002
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180103_cSi_D10_5%TMAH\002_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180103_cSi_D10_5%TMAH\003
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180103_cSi_D10_5%TMAH\003_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180103_cSi_D10_5%TMAH\004
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180103_cSi_D10_5%TMAH\004_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180103_cSi_D10_5%TMAH\005
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180103_cSi_D10_5%TMAH\005_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180103_cSi_D10_5%TMAH\006
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180103_cSi_D10_5%TMAH\006_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180103_cSi_D10_5%TMAH\007
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180103_cSi_D10_5%TMAH\007_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180103_cSi_D10_5%TMAH\008
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180103_cSi_D10_5%TMAH\008_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180103_cSi_D10_5%TMAH\009
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180103_cSi_D10_5%TMAH\009_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180103_cSi_D10_5%TMAH\010
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180103_cSi_D10_5%TMAH\010_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180124_cSi_D10_2%KOH_5%TMAH_1To1_Mixture\001
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180124_cSi_D10_2%KOH_5%TMAH_1To1_Mixture\001_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180124_cSi_D10_2%KOH_5%TMAH_1To1_Mixture\003
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180124_cSi_D10_2%KOH_5%TMAH_1To1_Mixture\003_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180124_cSi_D10_2%KOH_5%TMAH_1To1_Mixture\005
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180124_cSi_D10_2%KOH_5%TMAH_1To1_Mixture\005_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180124_cSi_D10_2%KOH_5%TMAH_1To1_Mixture\007
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180124_cSi_D10_2%KOH_5%TMAH_1To1_Mixture\007_converted_G
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180124_cSi_D10_2%KOH_5%TMAH_1To1_Mixture\008
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180124_cSi_D10_2%KOH_5%TMAH_1To1_Mixture\008_converted_G
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180124_cSi_D10_2%KOH_5%TMAH_1To1_Mixture\010
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180124_cSi_D10_2%KOH_5%TMAH_1To1_Mixture\010_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180124_cSi_D10_2%KOH_5%TMAH_1To1_Mixture\011
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180124_cSi_D10_2%KOH_5%TMAH_1To1_Mixture\011_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180124_cSi_D10_2%KOH_5%TMAH_1To1_Mixture\019
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180124_cSi_D10_2%KOH_5%TMAH_1To1_Mixture\019_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180124_cSi_D10_2%KOH_5%TMAH_1To1_Mixture\020
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180124_cSi_D10_2%KOH_5%TMAH_1To1_Mixture\020_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180124_cSi_D10_2%KOH_5%TMAH_1To1_Mixture\021
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180124_cSi_D10_2%KOH_5%TMAH_1To1_Mixture\021_converted_VG
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180124_cSi_D10_2%KOH_5%TMAH_1To1_Mixture\022
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180124_cSi_D10_2%KOH_5%TMAH_1To1_Mixture\022_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180202\001
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180202\002
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180202\003
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180307_AE707137_D12_200nm_cSi_2%KOH_NotGood\001
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180307_AE707137_D12_200nm_cSi_5%TMAH\001
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180307_AE707137_D12_200nm_cSi_5%TMAH\001_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180307_AE707137_D12_200nm_cSi_5%TMAH\002
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180307_AE707137_D12_200nm_cSi_5%TMAH\002_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180307_AE707137_D12_200nm_cSi_5%TMAH\003
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180307_AE707137_D12_200nm_cSi_5%TMAH\003_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180307_AE707137_D12_200nm_cSi_5%TMAH\004
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180307_AE707137_D12_200nm_cSi_5%TMAH\004_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180307_AE707137_D12_200nm_cSi_5%TMAH\005
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180307_AE707137_D12_200nm_cSi_5%TMAH\005_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180307_AE707137_D12_200nm_cSi_5%TMAH\006
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180307_AE707137_D12_200nm_cSi_5%TMAH\007
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180307_AE707137_D12_200nm_cSi_5%TMAH\007_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180307_AE707137_D12_200nm_cSi_5%TMAH\008
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180307_AE707137_D12_200nm_cSi_5%TMAH\008_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180307_AE707137_D12_200nm_cSi_5%TMAH\009
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180307_AE707137_D12_200nm_cSi_5%TMAH\009_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180307_AE707137_D12_200nm_cSi_5%TMAH\010
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180307_AE707137_D12_200nm_cSi_5%TMAH\010_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180313_AE707137_D12_200nm_cSi_2%KOH\003
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180313_AE707137_D12_200nm_cSi_2%KOH\003_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180313_AE707137_D12_200nm_cSi_2%KOH\004
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180313_AE707137_D12_200nm_cSi_2%KOH\004_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180313_AE707137_D12_200nm_cSi_2%KOH\005
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180313_AE707137_D12_200nm_cSi_2%KOH\005_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180313_AE707137_D12_200nm_cSi_2%KOH\006
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180313_AE707137_D12_200nm_cSi_2%KOH\006_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180313_AE707137_D12_200nm_cSi_2%KOH\007
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180313_AE707137_D12_200nm_cSi_2%KOH\007_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180313_AE707137_D12_200nm_cSi_2%KOH\008
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180313_AE707137_D12_200nm_cSi_2%KOH\008_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180313_AE707137_D12_200nm_cSi_2%KOH\009
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180313_AE707137_D12_200nm_cSi_2%KOH\009_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180313_AE707137_D12_200nm_cSi_2%KOH\011
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180313_AE707137_D12_200nm_cSi_2%KOH\011_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180313_AE707137_D12_200nm_cSi_2%KOH\014
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180313_AE707137_D12_200nm_cSi_2%KOH\014_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180313_AE707137_D12_200nm_cSi_2%KOH\After_5s_2%KOH_exSitu\018
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180313_AE707137_D12_200nm_cSi_2%KOH\After_5s_2%KOH_exSitu\018_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180313_AE707137_D12_200nm_cSi_2%KOH\After_5s_2%KOH_exSitu\019
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180313_AE707137_D12_200nm_cSi_2%KOH\After_5s_2%KOH_exSitu\019_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180404_AE707137_D11_200nm_cSi_2%KOH_InSitu\001
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180404_AE707137_D11_200nm_cSi_2%KOH_InSitu\002
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180404_AE707137_D11_200nm_cSi_2%KOH_InSitu\003
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180404_AE707137_D11_200nm_cSi_2%KOH_InSitu\004
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180404_AE707137_D11_200nm_cSi_2%KOH_InSitu\005
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180404_AE707137_D11_200nm_cSi_2%KOH_InSitu\006
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180404_AE707137_D11_200nm_cSi_2%KOH_InSitu\007
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180404_AE707137_D11_200nm_cSi_2%KOH_InSitu\008
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\201805114_AE707137_D12_200nm_cSi_1%KOH_InSitu [NotGood]\001
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\201805114_AE707137_D12_200nm_cSi_1%KOH_InSitu [NotGood]\001_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\201805114_AE707137_D12_200nm_cSi_1%KOH_InSitu [NotGood]\002
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\201805114_AE707137_D12_200nm_cSi_1%KOH_InSitu [NotGood]\002_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\201805114_AE707137_D12_200nm_cSi_1%KOH_InSitu [NotGood]\003
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\201805114_AE707137_D12_200nm_cSi_1%KOH_InSitu [NotGood]\003_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\201805114_AE707137_D12_200nm_cSi_1%KOH_InSitu [NotGood]\004
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\201805114_AE707137_D12_200nm_cSi_1%KOH_InSitu [NotGood]\004_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\201805114_AE707137_D12_200nm_cSi_1%KOH_InSitu [NotGood]\005
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\201805114_AE707137_D12_200nm_cSi_1%KOH_InSitu [NotGood]\005_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\201805114_AE707137_D12_200nm_cSi_1%KOH_InSitu [NotGood]\006
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\201805114_AE707137_D12_200nm_cSi_1%KOH_InSitu [NotGood]\006_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\201805114_AE707137_D12_200nm_cSi_1%KOH_InSitu [NotGood]\007
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\201805114_AE707137_D12_200nm_cSi_1%KOH_InSitu [NotGood]\007_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\201805114_AE707137_D12_200nm_cSi_1%KOH_InSitu [NotGood]\008
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\201805114_AE707137_D12_200nm_cSi_1%KOH_InSitu [NotGood]\008_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\201805114_AE707137_D12_200nm_cSi_1%KOH_InSitu [NotGood]\009
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\201805114_AE707137_D12_200nm_cSi_1%KOH_InSitu [NotGood]\009_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\201805114_AE707137_D12_200nm_cSi_1%KOH_InSitu [NotGood]\010
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\201805114_AE707137_D12_200nm_cSi_1%KOH_InSitu [NotGood]\010_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\201805114_AE707137_D12_200nm_cSi_1%KOH_InSitu [NotGood]\011
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\201805114_AE707137_D12_200nm_cSi_1%KOH_InSitu [NotGood]\011_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\201805114_AE707137_D12_200nm_cSi_1%KOH_InSitu [NotGood]\012
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\201805114_AE707137_D12_200nm_cSi_1%KOH_InSitu [NotGood]\012_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180601_AE707137_D12_200nm_cSi_In-Situ_5%TMAH\002
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180601_AE707137_D12_200nm_cSi_In-Situ_5%TMAH\003
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180601_AE707137_D12_200nm_cSi_In-Situ_5%TMAH\004
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180601_AE707137_D12_200nm_cSi_In-Situ_5%TMAH\005
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180601_AE707137_D12_200nm_cSi_In-Situ_5%TMAH\006
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180601_AE707137_D12_200nm_cSi_In-Situ_5%TMAH\007
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180601_AE707137_D12_200nm_cSi_In-Situ_5%TMAH\008
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180601_AE707137_D12_200nm_cSi_In-Situ_5%TMAH\009
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180601_AE707137_D12_200nm_cSi_In-Situ_5%TMAH\010
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180606_AE707137_D12_200nm_cSi_In-Situ_4%KOH\002
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180606_AE707137_D12_200nm_cSi_In-Situ_4%KOH\002_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180606_AE707137_D12_200nm_cSi_In-Situ_4%KOH\003
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180606_AE707137_D12_200nm_cSi_In-Situ_4%KOH\003_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180606_AE707137_D12_200nm_cSi_In-Situ_4%KOH\004
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180606_AE707137_D12_200nm_cSi_In-Situ_4%KOH\004_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180606_AE707137_D12_200nm_cSi_In-Situ_4%KOH\008
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180606_AE707137_D12_200nm_cSi_In-Situ_4%KOH\008_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180606_AE707137_D12_200nm_cSi_In-Situ_4%KOH\009
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180606_AE707137_D12_200nm_cSi_In-Situ_4%KOH\009_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180606_AE707137_D12_200nm_cSi_In-Situ_4%KOH\010
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180606_AE707137_D12_200nm_cSi_In-Situ_4%KOH\010_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180608_AE707137_D12_200nm_cSi_18sRIE_1%KOH_InSitu\001
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180608_AE707137_D12_200nm_cSi_18sRIE_1%KOH_InSitu\002
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180608_AE707137_D12_200nm_cSi_18sRIE_1%KOH_InSitu\003
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180608_AE707137_D12_200nm_cSi_18sRIE_1%KOH_InSitu\004
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180608_AE707137_D12_200nm_cSi_18sRIE_1%KOH_InSitu\005
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180612_1%KOH\002
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180612_4%KOH_InSitu\007
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180612_4%KOH_InSitu\007_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180612_4%KOH_InSitu\008
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180612_4%KOH_InSitu\008_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180612_4%KOH_InSitu\009
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180612_4%KOH_InSitu\009_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180612_4%KOH_InSitu\010
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180612_4%KOH_InSitu\010_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180612_4%KOH_InSitu\011
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180612_4%KOH_InSitu\011_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180612_4%KOH_InSitu\012
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180612_4%KOH_InSitu\012_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180725_InSitu\01
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180725_InSitu\01_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180725_InSitu\02
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180725_InSitu\02_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180725_InSitu\03
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180725_InSitu\03_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180725_InSitu\04
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180725_InSitu\04_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180725_InSitu\05
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSi\D12_200nm_cSi\20180725_InSitu\05_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20160705 [cSiGe Dry]
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20160707  [Good Exsitu cSiGe and cSi]
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20160708 [Not Good cSiGe]
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20161213 [Not Good]\010
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20161213 [Not Good]\011
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20161213 [Not Good]\013
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20161213 [Not Good]\015
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20161213 [Not Good]\05
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20161213 [Not Good]\09
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170119  [Not Good]
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170125
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170125 [Good]\D08_4%KOH\010
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170125 [Good]\D08_4%KOH\011
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170125 [Good]\D08_4%KOH\013
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170125 [Good]\D08_4%KOH\014
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170125 [Good]\D08_4%KOH\015
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170125 [Good]\D08_4%KOH\016
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170125 [Good]\D08_4%KOH\017
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170125 [Good]\D08_4%KOH\018
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170125 [Good]\D08_4%KOH\019
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170125 [Good]\D08_4%KOH\020
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170125 [Good]\D08_4%KOH\021
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170125 [Good]\D08_4%KOH\022
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170125 [Good]\D08_4%KOH\08
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170125 [Good]\D08_4%KOH\09
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170125 [Good]\U03_4%KOH [Not Good]
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170126\001
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170126\002
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170126\003
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170126\004
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170126\005
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170126\006
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170126\007
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170126\008
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170126\009
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170126\010
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170126\011
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170126\012
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170126\013
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170126\017
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170126\test
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170127\001
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170127\002
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170127\003
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170127\004
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170127\006
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170127\007
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170127\008
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170127\009
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170127\010
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170127\011
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170127\012
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170127\013
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170127\014
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170127\015
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170127\016
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170127\017
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170127\018
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170127\019
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170127\020
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170127\021
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170127\022
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170127\023
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170127\024
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170127\025
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170127\026
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170127\027
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170127\028
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170127\029
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170127\030
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170127\031
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170127\032
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170131 [Not Good]\001
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170131 [Not Good]\002
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170131 [Not Good]\004
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170131 [Not Good]\006
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170131 [Not Good]\007
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170131 [Not Good]\008
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170131 [Not Good]\009
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170131 [Not Good]\010
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170131 [Not Good]\011
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170131 [Not Good]\012
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170131 [Not Good]\013
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170201_Good\001
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170201_Good\002
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170201_Good\003
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170201_Good\004
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170201_Good\005
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170201_Good\006
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170201_Good\007
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170201_Good\008
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170201_Good\009
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170201_Good\010
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170201_Good\011
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170201_Good\012
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170201_Good\013
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170201_Good\014
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170201_Good\015
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170201_Good\015_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170201_Good\016
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170201_Good\016_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170201_Good\017
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170201_Good\017_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170201_Good\018
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170201_Good\019
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170201_Good\020
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170201_Good\021
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170201_Good\022
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170201_Good\023
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170201_Good\024
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170201_Good\025
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170201_Good\026
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170201_Good\027
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170201_Good\028
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170201_Good\029
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170202_NC
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170207_4%KOH_Good
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170208_SW_NotGood\001
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170208_SW_NotGood\002
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170208_SW_NotGood\003
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170208_SW_NotGood\004
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170208_SW_NotGood\005
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170208_SW_NotGood\006
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170208_SW_NotGood\007
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170208_SW_NotGood\008
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170208_SW_NotGood\009
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170208_SW_NotGood\010
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170208_SW_NotGood\011
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170208_SW_NotGood\012
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170208_SW_NotGood\013
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170208_SW_NotGood\014
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170208_SW_NotGood\015
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170208_SW_NotGood\016
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170208_SW_NotGood\017
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170208_SW_NotGood\018
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170210_1M_HCl\001
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170210_1M_HCl\002
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170210_1M_HCl\002_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170210_1M_HCl\003
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170210_1M_HCl\004
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170210_1M_HCl\005
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170210_1M_HCl\006
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170210_1M_HCl\007
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170210_1M_HCl\008
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170210_1M_HCl\009
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170210_1M_HCl\010
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170210_1M_HCl\010_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170210_1M_HCl\011
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170210_1M_HCl\013
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170210_1M_HCl\D18_1min_1MHCl_20mMH2O2
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170210_1M_HCl\D18_1min_1MHCl_20mMH2O2_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170210_1M_HCl\D18_2min_1MHCl_20mMH2O2
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170210_1M_HCl\D18_2min_1MHCl_20mMH2O2_converted
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170214_6M_HCl_NotGood\004
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170214_6M_HCl_NotGood\005
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170214_6M_HCl_NotGood\006
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170214_6M_HCl_NotGood\007
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170214_6M_HCl_NotGood\008
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170214_6M_HCl_NotGood\009
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170214_6M_HCl_NotGood\010
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170214_6M_HCl_NotGood\011
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170214_6M_HCl_NotGood\012
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170214_6M_HCl_NotGood\013
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170214_6M_HCl_NotGood\014
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170215\001
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170215\002
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170215\003
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170215\004
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170215\005
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170215\006
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170215\007
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170215\008
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170215\009
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170215\010
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170215\011
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170215\012
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170215\013
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170215\015
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170215\016
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170215\017
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170215\019
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170215\020
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170215\021
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170215\022
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170215\023
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170215\024
+Z:\zainul\Experimenta_Data\Zainul_Garbage\cSiGe\20170215\Good
