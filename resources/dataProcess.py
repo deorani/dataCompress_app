@@ -223,21 +223,22 @@ def dProc_deleteCompressedDirectory(DATA_COMPRESS_STRUCT):
 ###############################################################################
 def dProc_standardizeDirNames(DATA_COMPRESS_STRUCT):
     try: 
-        fileIO.fileIO_writeToLog(appConfig.logFile, message = r"SCAN THROUGH THE DIRECTORY STRUCTURE AND RENAME FOLDERS WITH \n IN THEIR NAME!")    
+        log_message = r"SCAN THROUGH THE DIRECTORY STRUCTURE AND RENAME FOLDERS WITH \n IN THEIR NAME!"
+        fileIO.fileIO_writeToLog(appConfig.logFile, message = log_message)    
         scanDir = DATA_COMPRESS_STRUCT.inputDir    
         fileIO.fileIO_dirExists(scanDir)
         
-        for root, dirs, files in os.walk(scanDir):
+        for root, dirs, files in os.walk(scanDir, topdown=False):
             print ("Checking %s" %(root))
             for f in files:
-                if ('\n' in f) or ('\t' in f):
-                    new_fname = f.replace('\n', '-n').replace('\t', '-t')
+                if ('\n' in f) or ('\t' in f) or ("'" in f):
+                    new_fname = f.replace('\n', '-n').replace('\t', '-t').replace("'", "")
                     os.rename(os.path.join(root, f), os.path.join(root, new_fname))
                     log_message = f'renamed {f} to {new_fname} inside {root}'
                     fileIO.fileIO_writeToLog(appConfig.logFile, message = log_message)
             for d in dirs:
-                if ('\n' in d) or ('\t' in d):
-                    new_dirname = d.replace('\n', '-n').replace('\t', '-t')
+                if ('\n' in d) or ('\t' in d) or ("'" in d):
+                    new_dirname = d.replace('\n', '-n').replace('\t', '-t').replace("'", "")
                     os.rename(os.path.join(root, d), os.path.join(root, new_dirname))
                     log_message = f'renamed {d} to {new_dirname} inside {root}'
                     fileIO.fileIO_writeToLog(appConfig.logFile, message = log_message)

@@ -15,10 +15,10 @@ import resourceMonitor
 
 
 ###############################################################################
-def main(src, size, backup):
+def main(src, size):
     ######## READING THE DATA COMPRESSION CONFIGURATION
     data = fileIO.fileIO_readJson("../configuration/dataCompressConfig.json")
-    DATA_COMPRESS_STRUCT = structDef.structDef_dataCompressInit(data, src, size, backup)
+    DATA_COMPRESS_STRUCT = structDef.structDef_dataCompressInit(data, src, size)
     
     
     ######## READING THE RESOURCE MONITOR CONFIGURATION
@@ -57,8 +57,9 @@ def main(src, size, backup):
     dataProcess.dProc_deleteCompressedDirectory(DATA_COMPRESS_STRUCT)
     
     
-    ######## DELETE THE TEMPORARY FILES GENERATED DURING PROCESS
-    dataProcess.dProc_rmTemporaryFiles(DATA_COMPRESS_STRUCT)
+    ######## SPLIT LARGE FILES
+    #dataProcess.dProc_splitLargeFiles(DATA_COMPRESS_STRUCT)
+
 ###############################################################################
 
 
@@ -68,11 +69,10 @@ parser = argparse.ArgumentParser(prog = "dataCompress_app.py",
                                  description = "Python script to compress folders and split large files.")
 parser.add_argument("-src",  type = str,               help = "Input directory that needs to be compressed")
 parser.add_argument("-size", type = int, default = 50, help = "Maximum allowed folder/file size after compression (in GB)")
-parser.add_argument("-backup", type = str,             help = "Backup directory for the folders that failed to compress")
 
 args = parser.parse_args()
 args.src = os.path.normpath(args.src)
-args.backup = os.path.normpath(args.backup)
+
 
 if (args.src == None):
     fileIO.fileIO_writeToLog(appConfig.logFile, "FATAL: Exit program. Please enter input directory to compress.", True)
@@ -83,5 +83,5 @@ elif (args.size == None):
 else:
     ######## MAIN FUNCTION CALL
     fileIO.fileIO_writeToLog(appConfig.logFile, "dataCompress_app. Compressing %s with maximum allowed folder/file size after compression = %d GB." %(args.src, args.size))
-    main(args.src, args.size, args.backup)
+    main(args.src, args.size)
 ###############################################################################

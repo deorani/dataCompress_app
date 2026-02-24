@@ -12,9 +12,8 @@ import structDef
 import fileIO
 import dataProcess
 import resourceMonitor
-import timeUtils
 
-print(appConfig.logDir)
+
 ###############################################################################
 def main(src, size):
     ######## READING THE DATA COMPRESSION CONFIGURATION
@@ -61,9 +60,6 @@ def main(src, size):
     ######## SPLIT LARGE FILES
     dataProcess.dProc_splitLargeFiles(DATA_COMPRESS_STRUCT)
     
-    
-    ######## DELETE THE TEMPORARY FILES GENERATED DURING PROCESS
-    # dataProcess.dProc_rmTemporaryFiles(DATA_COMPRESS_STRUCT)
 ###############################################################################
 
 
